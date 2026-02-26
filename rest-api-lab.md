@@ -331,7 +331,7 @@ app.listen(port, () => {
 npm run dev
 ```
 ผลลัพธ์จะแสดง 
-![ผลการรัน Server](./images/run_server.png)
+![ผลการรัน Server](c:\Users\admin\Pictures\3.1.14.png)
   
 ### 1.5 การทดสอบ API ด้วย Postman
 
@@ -368,7 +368,7 @@ npm run dev
    - เลือก "Skip" เมื่อมีหน้าต่างแนะนำฟีเจอร์ต่างๆ
 
 #### 2. การสร้าง Collection และ Request
-![หน้าต่าง Postman](./images/Postman.png)
+![หน้าต่าง Postman](c:\Users\admin\Pictures\postman.png)
 
 1. การสร้าง Collection:
    - มองหาแถบด้านซ้ายของ Postman
@@ -412,7 +412,7 @@ npm run dev
    - คลิกปุ่ม "Save" ที่มุมขวาบน
      
   ### บันทึกผลการทดลอง
-  ![แทรกรูปการตั้งค่า Postman](path/to/your/image.png)
+  ![แทรกรูปการตั้งค่า Postman](c:\Users\admin\Pictures\send postman.png)
 
 1. การทดสอบ Request:
    - ตรวจสอบว่า Node.js server กำลังทำงานอยู่
@@ -422,7 +422,7 @@ npm run dev
    - ควรเห็น Status Code 201 Created
   
    ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการเพิ่มข้อมูล](path/to/your/image.png)
+  ![แทรกรูปผลการเพิ่มข้อมูล](c:\Users\admin\Pictures\send postman 2.png)
   ทดสอบเพิ่มข้อมูลการจองอีก 2 ครั้ง โดยเปลี่ยนแปลงข้อมูลในการจองเพื่อให้มีความแตกต่างกันในแต่ละครั้ง
   
 
